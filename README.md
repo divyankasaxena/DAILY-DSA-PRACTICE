@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
