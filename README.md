@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0693-binary-number-with-alternating-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0777-swap-adjacent-in-lr-string](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0777-swap-adjacent-in-lr-string) |
+## String
+|  |
+| ------- |
+| [0777-swap-adjacent-in-lr-string](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0777-swap-adjacent-in-lr-string) |
 <!---LeetCode Topics End-->
