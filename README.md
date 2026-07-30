@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
@@ -18,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 ## Bit Manipulation
 |  |
@@ -35,4 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-swap-adjacent-in-lr-string](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0777-swap-adjacent-in-lr-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
