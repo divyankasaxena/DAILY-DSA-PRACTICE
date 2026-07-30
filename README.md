@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
+## Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
