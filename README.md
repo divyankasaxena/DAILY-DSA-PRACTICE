@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0624-maximum-distance-in-arrays) |
 | [0900-rle-iterator](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0900-rle-iterator) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0624-maximum-distance-in-arrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Iterator
