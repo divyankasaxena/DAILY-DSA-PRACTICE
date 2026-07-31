@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
+| [0688-knight-probability-in-chessboard](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0688-knight-probability-in-chessboard) |
 ## Binary Search
 |  |
 | ------- |
