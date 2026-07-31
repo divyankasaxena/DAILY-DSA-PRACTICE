@@ -105,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-rle-iterator](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0900-rle-iterator) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
