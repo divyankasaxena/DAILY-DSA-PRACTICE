@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0622-design-circular-queue) |
@@ -81,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0688-knight-probability-in-chessboard](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0688-knight-probability-in-chessboard) |
 ## Binary Search
 |  |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0622-design-circular-queue) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
