@@ -122,26 +122,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0623-add-one-row-to-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0623-add-one-row-to-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0623-add-one-row-to-tree) |
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0622-design-circular-queue](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
