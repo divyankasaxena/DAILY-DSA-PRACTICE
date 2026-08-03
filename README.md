@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0624-maximum-distance-in-arrays) |
+| [0877-stone-game](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0877-stone-game) |
 | [0900-rle-iterator](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0900-rle-iterator) |
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0688-knight-probability-in-chessboard](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0688-knight-probability-in-chessboard) |
+| [0877-stone-game](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
@@ -163,13 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
