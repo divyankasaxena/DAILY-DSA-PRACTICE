@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0777-swap-adjacent-in-lr-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
