@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0624-maximum-distance-in-arrays) |
 | [0877-stone-game](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0877-stone-game) |
 | [0900-rle-iterator](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0900-rle-iterator) |
+| [1288-remove-covered-intervals](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
+| [1288-remove-covered-intervals](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
