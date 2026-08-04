@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
