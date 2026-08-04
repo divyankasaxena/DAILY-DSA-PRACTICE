@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -221,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1291-sequential-digits) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
