@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3731-find-missing-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
