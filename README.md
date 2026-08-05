@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0393-utf-8-validation](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0393-utf-8-validation) |
+| [0435-non-overlapping-intervals](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1288-remove-covered-intervals) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0688-knight-probability-in-chessboard](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0688-knight-probability-in-chessboard) |
 | [0877-stone-game](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0877-stone-game) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0624-maximum-distance-in-arrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
