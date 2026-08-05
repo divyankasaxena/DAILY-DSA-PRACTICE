@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0393-utf-8-validation](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0393-utf-8-validation) |
 | [0435-non-overlapping-intervals](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1331-rank-transform-of-an-array) |
