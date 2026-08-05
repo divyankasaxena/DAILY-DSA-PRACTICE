@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0623-add-one-row-to-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0623-add-one-row-to-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
