@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0624-maximum-distance-in-arrays) |
 | [0792-number-of-matching-subsequences](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [0794-valid-tic-tac-toe-state](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
 | [0877-stone-game](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0877-stone-game) |
 | [0900-rle-iterator](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0900-rle-iterator) |
 | [1288-remove-covered-intervals](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1288-remove-covered-intervals) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0794-valid-tic-tac-toe-state](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
 ## Design
 |  |
 | ------- |
