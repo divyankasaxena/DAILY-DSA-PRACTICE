@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3731-find-missing-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -154,12 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0623-add-one-row-to-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
