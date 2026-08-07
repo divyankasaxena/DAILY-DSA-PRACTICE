@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [1189-maximum-number-of-balloons](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0900-rle-iterator](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0900-rle-iterator) |
+| [1189-maximum-number-of-balloons](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
