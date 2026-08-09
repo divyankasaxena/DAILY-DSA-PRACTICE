@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3838-weighted-word-mapping](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3838-weighted-word-mapping](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3838-weighted-word-mapping](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
