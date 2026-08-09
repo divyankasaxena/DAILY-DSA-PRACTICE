@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1189-maximum-number-of-balloons](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/1331-rank-transform-of-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0623-add-one-row-to-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0623-add-one-row-to-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Linked List
 |  |
 | ------- |
