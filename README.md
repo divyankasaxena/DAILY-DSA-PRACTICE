@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3838-weighted-word-mapping) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3689-maximum-total-subarray-value-i) |
 ## Iterator
 |  |
 | ------- |
