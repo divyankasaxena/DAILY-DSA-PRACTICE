@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3838-weighted-word-mapping) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0393-utf-8-validation](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0393-utf-8-validation) |
 | [0693-binary-number-with-alternating-bits](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/0693-binary-number-with-alternating-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/divyankasaxena/DAILY-DSA-PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
